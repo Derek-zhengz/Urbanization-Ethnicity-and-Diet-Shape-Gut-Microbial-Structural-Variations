@@ -1,0 +1,8 @@
+Factor,SV,Marginal_R2,P_value,p_adj
+bath_shower_frequency,Vsv,0.00359173,0.001,0.002333333
+time_spent_in_urban_citties,Vsv,0.052304817,0.002,0.0028
+education_level,Vsv,0.00492546,0.002,0.0028
+travel_frequency,Vsv,0.005792005,0.065,0.075833333
+stressfulness,Vsv,0.003945518,0.001,0.002333333
+fast_foods_consumption,Vsv,0.001597501,0.089,0.089
+contact_with_animals,Vsv,0.004609132,0.001,0.002333333
